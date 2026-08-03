@@ -2,6 +2,37 @@
 
 Software & AI engineer based in Toronto. Background spans FinTech and FAANG (ex-Amazon); today I build financial applications and AI-driven tools for the stock market.
 
+#### Skills
+
+**AI & Agents**
+- Building and orchestrating LLM agents with the Claude Agent SDK — tool permissioning, hook-based guardrails, multi-turn task orchestration
+- Multi-provider AI model routing (Anthropic/Claude, Groq, NVIDIA, Cerebras, OpenRouter) behind a single internal service
+- Prompt & persona engineering for domain-specific assistants
+- Designing safe boundaries around agent write-access to real codebases and production systems
+
+**Backend & APIs**
+- Python, FastAPI — async REST API design and implementation
+- Node.js, Express
+- API integration (market-data feeds, news/RSS, third-party services)
+- Auth (JWT), PostgreSQL, relational schema design
+
+**Frontend**
+- React (18/19), TypeScript, Next.js (App Router)
+- Real-time data visualization — live charting, technical indicators, candlestick views
+
+**Financial Engineering**
+- Stochastic price modeling (Geometric Brownian Motion)
+- Automated technical-analysis / trade-setup detection systems
+- Options-flow and market-positioning analysis
+
+**Systems & DevOps**
+- Windows systems programming — registry, services, scheduled tasks (PowerShell)
+- Desktop app packaging (PyInstaller, pywebview)
+- CI/CD (ruff, black, pytest, Docker)
+- Git/GitHub workflow automation
+
+**Also built with:** Godot 4 / GDScript, Python game engines (Ursina/Panda3D)
+
 #### What I'm building
 
 At **[Prime Investing Capital](https://primeinvestingcapital.com)**, I design and build the full stack behind a trading education and live-tools platform:
@@ -10,8 +41,6 @@ At **[Prime Investing Capital](https://primeinvestingcapital.com)**, I design an
 - **PrimeAI / SmartTrader.ai** — a shared FastAPI model-routing service that powers AI trading-assistant features across the product line.
 
 These are closed-source products; the tools below are the open-source side of my work.
-
-**Stack:** Python (FastAPI), TypeScript/React, Node.js, PowerShell, PostgreSQL — and hands-on experience building and safely sandboxing LLM agents with the Claude Agent SDK.
 
 #### Open-source tools
 
