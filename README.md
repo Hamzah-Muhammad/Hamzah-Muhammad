@@ -26,9 +26,12 @@ Software & AI engineer based in Toronto. Background spans FinTech and FAANG (ex-
 - Options-flow and market-positioning analysis
 
 **Systems & DevOps**
+- Docker — containerization and image builds for deployment
+- Cloud hosting on AWS
+- Full CI/CD pipeline creation and management (lint/format/test/build gates, automated deploys)
+- Continuous development workflow — trunk-based branching, PR review gates, staged rollouts
 - Windows systems programming — registry, services, scheduled tasks (PowerShell)
 - Desktop app packaging (PyInstaller, pywebview)
-- CI/CD (ruff, black, pytest, Docker)
 - Git/GitHub workflow automation
 
 **Also built with:** Godot 4 / GDScript, Python game engines (Ursina/Panda3D)
