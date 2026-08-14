@@ -53,7 +53,7 @@ These are closed-source products; the tools below are the open-source side of my
 | [**PythonApps**](https://github.com/Hamzah-Muhammad/PythonApps) | Standalone Python tools, including a free-data options-flow scanner for options market positioning. |
 | [**Ticket2PR**](https://github.com/Hamzah-Muhammad/Ticket2PR) | An autonomous coding agent that reads a GitHub issue backlog and opens real pull requests to resolve it — with a hard guardrail hook that blocks the model from ever touching `git`/`gh` directly. |
 | [**RestApi-User-Management-Example**](https://github.com/Hamzah-Muhammad/RestApi-User-Management-Example) | A FastAPI REST API template built to be forked and repointed at a real domain: JWT auth, ownership-scoped CRUD, pagination/filtering/sorting, Alembic migrations, a full pytest suite, Docker/docker-compose, and CI. |
-| [**PcTuner-Open-Source**](https://github.com/Hamzah-Muhammad/PcTuner-Open-Source) | A shipped Windows desktop app (Python/FastAPI + React/TypeScript, packaged with PyInstaller + pywebview) that audits and safely applies PC performance tuning, with full undo logging and a System Restore checkpoint before every change. |
+| [**PCTuner-Optimization-Tool**](https://github.com/Hamzah-Muhammad/PCTuner-Optimization-Tool) | A shipped Windows desktop app (Python/FastAPI + React/TypeScript, packaged with PyInstaller + pywebview) that audits and safely applies PC performance tuning, with full undo logging and a System Restore checkpoint before every change. |
 | [**ShellScriptApps**](https://github.com/Hamzah-Muhammad/ShellScriptApps) | Small, auditable Windows PowerShell utilities, shipped as readable source alongside compiled `.exe`s. |
 
 Pinned repos above have more detail in each README.
