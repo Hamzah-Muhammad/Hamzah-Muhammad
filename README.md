@@ -41,7 +41,7 @@ Software & AI engineer based in Toronto. Background spans FinTech and FAANG (ex-
 At **[Prime Investing Capital](https://primeinvestingcapital.com)**, I design and build the full stack behind a trading education and live-tools platform:
 - **TheEdge** — a real-time stock analysis dashboard (FastAPI + React): multi-chart technicals, automated setup detection (intraday/swing/invest), sector rotation, and AI-generated market write-ups. Source is closed — see **[TheEdge-Overview](https://github.com/Hamzah-Muhammad/TheEdge-Overview)** for a public architecture writeup and live link.
 - **PrimeInvestingCapital.com** — the platform itself (Next.js, PostgreSQL): live trading tools, education content, and account/auth for members.
-- **Minni / SmartTrader.ai** — a shared FastAPI model-routing service that powers AI trading-assistant features across the product line.
+- **SmartTrader.ai** — a shared FastAPI model-routing service that powers AI trading-assistant features across the product line.
 
 These are closed-source products; the tools below are the open-source side of my work.
 
