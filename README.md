@@ -6,7 +6,7 @@ Software & AI engineer based in Toronto. Background spans FinTech and FAANG (ex-
 
 **AI & Agents**
 - Building and orchestrating LLM agents with the Claude Agent SDK — tool permissioning, hook-based guardrails, multi-turn task orchestration
-- Multi-provider AI model routing (Anthropic/Claude, Groq, NVIDIA, Cerebras, OpenRouter) behind a single internal service
+- Multi-provider AI model routing (Anthropic/Claude, NVIDIA NIM, Cerebras, OpenRouter) behind a single internal service
 - Prompt & persona engineering for domain-specific assistants
 - Designing safe boundaries around agent write-access to real codebases and production systems
 
@@ -38,10 +38,10 @@ Software & AI engineer based in Toronto. Background spans FinTech and FAANG (ex-
 
 #### What I'm building
 
-At **[Prime Investing Capital](https://primeinvestingcapital.com)**, I design and build the full stack behind a trading education and live-tools platform:
-- **TheEdge** — a real-time stock analysis dashboard (FastAPI + React): multi-chart technicals, automated setup detection (intraday/swing/invest), sector rotation, and AI-generated market write-ups. Source is closed — see **[TheEdge-Overview](https://github.com/Hamzah-Muhammad/TheEdge-Overview)** for a public architecture writeup and live link.
-- **PrimeInvestingCapital.com** — the platform itself (Next.js, PostgreSQL): live trading tools, education content, and account/auth for members.
-- **SmartTrader.ai** — a shared FastAPI model-routing service that powers AI trading-assistant features across the product line.
+At **[Prime Investing Capital](https://primeinvestingcapital.org)**, I design and build the full stack behind a trading education and live-tools platform:
+- **[The Edge](https://primeinvestingcapital.org/TheEdge)** — an AI-Powered Trading Floor (FastAPI + React + PostgreSQL): three Prime Engines that scan the market for day / swing / long-term stock setups, Trade Tracker, TheEdgePortfolio (AI review of your own holdings), AI options-flow verdicts, and a live trading-floor chat with WebRTC screen share where analysts trade live daily. Source is closed — see **[TheEdge-Overview](https://github.com/Hamzah-Muhammad/TheEdge-Overview)** for a public architecture writeup.
+- **PrimeInvestingCapital.org** — the platform itself (Next.js, PostgreSQL): live trading tools, education content, account/auth, and Stripe subscription billing for members.
+- **PrimeTrader.ai** — the in-app AI trading agent: a per-user persona that learns how you trade, tool access over the platform's own computed data (setups, levels, watchlist, trades, holdings), and write actions that never execute without an explicit user confirmation.
 
 These are closed-source products; the tools below are the open-source side of my work.
 
