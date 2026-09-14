@@ -22,8 +22,8 @@ Software & AI engineer in Toronto, 6+ years across fintech and enterprise softwa
 
 | Area | Tools |
 |---|---|
-| Agents | Claude Agent SDK, OpenAI SDK, MCP, LangChain |
-| Backend | Python, FastAPI, PostgreSQL |
-| Frontend | TypeScript, React, Next.js, Node |
-| Infra | AWS, Docker, GitHub Actions |
+| Agents | Claude SDK, OpenAI SDK, LangChain, MCP|
+| Backend | Python, FastAPI, Node.js, Java, PostgreSQL |
+| Frontend | TypeScript, React, Next.js,  |
+| Infra | AWS, Docker, Kubernetes, GitHub Actions |
 | Windows | PowerShell tooling |
