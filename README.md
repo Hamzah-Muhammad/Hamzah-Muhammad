@@ -12,11 +12,16 @@ What I'm building:
 
 Projects:
 
-•[SafeDataBaseMCP](https://github.com/Hamzah-Muhammad/SafeDataBaseMCP) | An MCP server for databases. Reads run right away. A write has to be previewed in a rolled-back transaction first, and only that preview can be •committed. SQLite, Postgres or AWS RDS. Installs as a Claude Code plugin or a claude.ai connector. |
-•[OpenCodingAgent](https://github.com/Hamzah-Muhammad/OpenCodingAgent) | A terminal coding agent on a free open-weight model (DeepSeek V4 via NVIDIA). Edits files, runs shell and git, opens PRs. Locked to one directory and refuses to read secrets files. CI on Windows and Linux. |
-•[Ticket2PR](https://github.com/Hamzah-Muhammad/Ticket2PR) | Give it a GitHub issue, get a pull request back. Built on the Claude Agent SDK. It never merges, and the tests make sure of that. Ships as a desktop app and a CLI. Three of its PRs are left open on the [demo repo](https://github.com/Hamzah-Muhammad/ticket2pr-demo). |
-•[PricingWebapp](https://github.com/Hamzah-Muhammad/PricingWebapp) | A stock price simulator (Geometric Brownian Motion, Black-Scholes) in a trading-terminal UI. Node and React. |
-•[PCTuner-Optimization-Tool](https://github.com/Hamzah-Muhammad/PCTuner-Optimization-Tool) | A Windows desktop app that applies PC performance tweaks, with undo logging and a restore point before every change. |
+•[SafeDataBaseMCP](https://github.com/Hamzah-Muhammad/SafeDataBaseMCP) | An MCP server for databases. Reads run right away. A write has to be previewed in a rolled-back transaction first, and only that preview can be •committed. SQLite, Postgres or AWS RDS. Installs as an MCP, Claude Code plugin or a claude.ai connector. 
+
+•[OpenCodingAgent](https://github.com/Hamzah-Muhammad/OpenCodingAgent) | A terminal coding agent on a free open-weight model (DeepSeek V4 via NVIDIA). Edits files, runs shell and git, opens PRs. Locked to one directory and refuses to read secrets files. CI on Windows and Linux. 
+
+•[Ticket2PR](https://github.com/Hamzah-Muhammad/Ticket2PR) | Give it a GitHub issue, get a pull request back. Built on the Claude Agent SDK. It never merges, and the tests make sure of that. Ships as a desktop app and a CLI.
+
+•[PricingWebapp](https://github.com/Hamzah-Muhammad/PricingWebapp) | A stock price simulator (Geometric Brownian Motion, Black-Scholes) in a trading-terminal UI. Node and React. 
+
+•[PCTuner-Optimization-Tool](https://github.com/Hamzah-Muhammad/PCTuner-Optimization-Tool) | A Windows desktop app that applies PC performance tweaks, with undo logging and a restore point before every change. 
+
 •[TheEdge-Overview](https://github.com/Hamzah-Muhammad/TheEdge-Overview) | Architecture write-up of The Edge: what was built and how it fits together. The source is closed. |
 
 ##Stack##
