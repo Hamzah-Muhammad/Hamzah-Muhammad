@@ -35,7 +35,6 @@ Software & AI engineer based in Toronto. Background spans FinTech and FAANG (ex-
 - Desktop app packaging (PyInstaller, pywebview, Tkinter)
 - Git/GitHub workflow automation
 
-**Also built with:** Godot 4 / GDScript, Python game engines (Ursina/Panda3D)
 
 #### What I'm building
 
@@ -47,7 +46,6 @@ At **[Prime Investing Capital](https://primeinvestingcapital.org)**, I design an
 These are closed-source products; the tools below are the open-source side of my work.
 
 #### Open-source tools
-
 **AI agents**
 
 | Project | What it is |
