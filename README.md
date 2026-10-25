@@ -5,7 +5,7 @@ Software & AI engineer in Toronto, 6+ years across fintech and enterprise softwa
 ## What I'm building
 
 - [Minni AI](https://minniai.com): tools that cut token usage for AI agents through better interfaces and curated memory.
-- [The Edge](https://primeinvestingcapital.org/TheEdge) at [Prime Investing Capital](https://primeinvestingcapital.org): an AI-powered trading floor. Prediction engines that scan for stock setups, a per-user AI trading persona, a portfolio review tab, options flow. Monetized, with paying users. React, Python, FastAPI, open-source LLMs.
+- (https://primeinvestingcapital.org/TheEdge) at [Prime Investing Capital](https://primeinvestingcapital.org): an AI-powered trading floor. Prediction engines that scan for stock setups, a per-user AI trading persona, a portfolio review tab, options flow. Monetized, with paying users. React, Python, FastAPI, open-source LLMs.
 
 
 ## Projects
