@@ -10,12 +10,12 @@ Our main service is the MinniMemoryInterface, our token-reduction research appli
 
 | Product | What it does |
 |---|---|
-| [MinniMemoryMCP](https://www.npmjs.com/package/minnimemory) | Splits the memory files Claude Code and Codex load every turn into a small always-loaded part and files that load only when a task needs them. Then it measures the saving. `npm install -g minnimemory` |
+| [MinniMemoryMCP](https://www.npmjs.com/package/minnimemory) | Splits the memory files Claude Code and Codex load every turn into a small always-loaded part and files that load only when a task needs them. Then it measures the saving. `npx -y minnimemory init .` |
 | MinniMemoryAgent | Keeps a company's agent memory files healthy across its whole fleet and opens a pull request per repo. |
 | MinniCode | The Open-LLM coding agent: a terminal coding agent in the shape of Claude Code, tuned for low token use. |
 | MinniTuner | A consent-first Windows PC tuner. |
 
-Every claim we make is measured. Answer quality is checked by a blind judge, and failed runs stay on the record.
+Every claim we make is measured. Answer quality is checked by a blind judge, and failed runs stay on the record. [See the results](https://minniai.com/evidence).
 
 ## Also building
 
